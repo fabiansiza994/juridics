@@ -1,8 +1,8 @@
 package com.fmsp.juridics.config;
 
-import com.fmsp.juridics.repository.UsuarioRepository;
-import com.fmsp.juridics.service.JwtService;
-import com.fmsp.juridics.util.LoadDataProperties;
+import com.fmsp.juridics.modules.users.repository.UsuarioRepository;
+import com.fmsp.juridics.modules.auth.service.JwtService;
+import com.fmsp.juridics.core.util.LoadDataProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

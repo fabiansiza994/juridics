@@ -1,8 +1,8 @@
-package com.fmsp.juridics.controller;
+package com.fmsp.juridics.modules.auth.controller;
 
-import com.fmsp.juridics.dto.AuthResponse;
-import com.fmsp.juridics.dto.LoginRequest;
-import com.fmsp.juridics.service.AuthService;
+import com.fmsp.juridics.modules.auth.dto.AuthResponse;
+import com.fmsp.juridics.modules.auth.dto.LoginRequest;
+import com.fmsp.juridics.modules.auth.service.AuthService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

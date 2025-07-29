@@ -1,5 +1,6 @@
-package com.fmsp.juridics.entity;
+package com.fmsp.juridics.modules.roles.entity;
 
+import com.fmsp.juridics.modules.users.entity.Usuario;
 import jakarta.persistence.*;
 
 import java.util.List;

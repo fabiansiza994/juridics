@@ -1,5 +1,7 @@
-package com.fmsp.juridics.entity;
+package com.fmsp.juridics.modules.users.entity;
 
+import com.fmsp.juridics.modules.groups.entity.Grupo;
+import com.fmsp.juridics.modules.roles.entity.Rol;
 import jakarta.persistence.*;
 
 @Entity

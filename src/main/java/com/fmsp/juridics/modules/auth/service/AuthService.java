@@ -1,7 +1,7 @@
-package com.fmsp.juridics.service;
+package com.fmsp.juridics.modules.auth.service;
 
-import com.fmsp.juridics.dto.AuthResponse;
-import com.fmsp.juridics.dto.LoginRequest;
+import com.fmsp.juridics.modules.auth.dto.AuthResponse;
+import com.fmsp.juridics.modules.auth.dto.LoginRequest;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;

@@ -1,5 +1,7 @@
-package com.fmsp.juridics.entity;
+package com.fmsp.juridics.modules.groups.entity;
 
+import com.fmsp.juridics.modules.companies.entity.Empresa;
+import com.fmsp.juridics.modules.users.entity.Usuario;
 import jakarta.persistence.*;
 
 import java.util.Set;

@@ -1,5 +1,6 @@
-package com.fmsp.juridics.entity;
+package com.fmsp.juridics.modules.companies.entity;
 
+import com.fmsp.juridics.modules.groups.entity.Grupo;
 import jakarta.persistence.*;
 
 import java.util.List;

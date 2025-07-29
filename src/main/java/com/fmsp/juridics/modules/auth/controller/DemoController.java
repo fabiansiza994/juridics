@@ -1,4 +1,4 @@
-package com.fmsp.juridics.controller;
+package com.fmsp.juridics.modules.auth.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

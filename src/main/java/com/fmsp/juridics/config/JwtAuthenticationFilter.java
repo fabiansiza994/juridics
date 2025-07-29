@@ -1,6 +1,6 @@
 package com.fmsp.juridics.config;
 
-import com.fmsp.juridics.service.JwtService;
+import com.fmsp.juridics.modules.auth.service.JwtService;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;

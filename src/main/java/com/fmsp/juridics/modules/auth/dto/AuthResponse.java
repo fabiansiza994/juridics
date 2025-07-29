@@ -1,4 +1,4 @@
-package com.fmsp.juridics.dto;
+package com.fmsp.juridics.modules.auth.dto;
 
 public class AuthResponse {
     private String token;

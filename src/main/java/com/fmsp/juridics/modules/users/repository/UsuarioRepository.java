@@ -1,6 +1,6 @@
-package com.fmsp.juridics.repository;
+package com.fmsp.juridics.modules.users.repository;
 
-import com.fmsp.juridics.entity.Usuario;
+import com.fmsp.juridics.modules.users.entity.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,8 +1,8 @@
-package com.fmsp.juridics.service;
+package com.fmsp.juridics.modules.auth.service;
 
-import com.fmsp.juridics.entity.Usuario;
-import com.fmsp.juridics.repository.UsuarioRepository;
-import com.fmsp.juridics.util.LoadDataProperties;
+import com.fmsp.juridics.modules.users.entity.Usuario;
+import com.fmsp.juridics.modules.users.repository.UsuarioRepository;
+import com.fmsp.juridics.core.util.LoadDataProperties;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.security.Keys;
